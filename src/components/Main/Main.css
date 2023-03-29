@@ -1,0 +1,25 @@
+.main-contain {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 40px;
+}
+
+.players-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 15px 0;
+}
+
+/* Responsive code here */
+@media screen and (max-width: 576px) {
+
+    .main-contain {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .players-container {
+        grid-template-columns: 1fr;
+    }
+}

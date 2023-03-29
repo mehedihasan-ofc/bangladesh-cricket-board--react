@@ -1,0 +1,111 @@
+[
+    {
+        "id": "124e13a1",
+        "category": "Bangladeshi cricketer",
+        "position": "Opening Batter",
+        "name": "Tamim Iqbal",
+        "price": 1442,
+        "ratings": 4.8,
+        "img": "https://media.gettyimages.com/id/1151585114/photo/tamim-iqbal-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at-the.jpg?s=612x612&w=gi&k=20&c=uuwjX5FOtkCvBW3pr8Kvbm-0uyU9tbxuGx4HS4EaLCw="
+    },
+    {
+        "id": "124e13a2",
+        "category": "Bangladeshi cricketer",
+        "position": "Middle order Batter",
+        "name": "Soumya Sarkar",
+        "price": 1377,
+        "ratings": 4.6,
+        "img": "https://media.gettyimages.com/id/1151615301/photo/soumya-sarkar-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at.jpg?s=612x612&w=gi&k=20&c=vD8svTYCgHythQQTp0XGMjxSmHSjaN-e64XbkBG_pXU="
+    },
+    {
+        "id": "124e13a3",
+        "category": "Bangladeshi cricketer",
+        "position": "Middle order Batter",
+        "name": "Sabbir Rahman",
+        "price": 1317,
+        "ratings": 4.5,
+        "img": "https://media.gettyimages.com/id/1151616433/photo/sabbir-rahman-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at.jpg?s=612x612&w=gi&k=20&c=sDuRgYkeNap2nds2J2ePPICBWNUwX_CBwgZ782TRuqQ="
+    },
+    {
+        "id": "124e13a4",
+        "category": "Bangladeshi cricketer",
+        "position": "Wicketkeeper Batter",
+        "name": "Litton Das",
+        "price": 1260,
+        "ratings": 4.5,
+        "img": "https://media.gettyimages.com/id/1151587154/photo/liton-das-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at-the.jpg?s=612x612&w=0&k=20&c=OShEhpVkHmNOinl3WXR0TmHoQejnlUar4FN4mvqO0uM="
+    },
+    {
+        "id": "124e13a5",
+        "category": "Bangladeshi cricketer",
+        "position": "Allrounder",
+        "name": "Shakib Al Hasan",
+        "price": 1030,
+        "ratings": 4.7,
+        "img": "https://media.gettyimages.com/id/1151586791/photo/shakib-al-hasan-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at.jpg?s=612x612&w=gi&k=20&c=b199eJhw6sVvVbzrYaQNwneGrWwX5OciygPkOZXJ75I="
+    },
+    {
+        "id": "124e13a6",
+        "category": "Bangladeshi cricketer",
+        "name": "Mushfiqur Rahim",
+        "position": "Wicketkeeper Batter",
+        "price": 1400,
+        "ratings": 4.8,
+        "img": "https://media.gettyimages.com/id/1151585945/photo/mushfiqur-rahim-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at.jpg?s=612x612&w=gi&k=20&c=RclcVhjIy2heYdGAaNRPRnNDf-b0gZcvYynXQPRodb0="
+    },
+    {
+        "id": "124e13a7",
+        "category": "Bangladeshi cricketer",
+        "position": "Allrounder",
+        "name": "Mahmudullah Riyad",
+        "price": 1380,
+        "ratings": 4.7,
+        "img": "https://media.gettyimages.com/id/1151589292/es/foto/mahmudullah-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at-the.jpg?s=612x612&w=0&k=20&c=xWGISiz5_yAwBhcgQ3wZ83KciTj2fpq_aLErmzhz5ec="
+    },
+    {
+        "id": "124e13a8",
+        "category": "Bangladeshi cricketer",
+        "position": "Allrounder",
+        "name": "Mehidy Hasan",
+        "price": 1250,
+        "ratings": 4.6,
+        "img": "https://media.gettyimages.com/id/1151590527/es/foto/mehedi-hasan-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at-the.jpg?s=612x612&w=0&k=20&c=inQ_7z2DC_bn9MhOzx1DVxf9H49hoXpVpiyKu74zkZw="
+    },
+    {
+        "id": "124e13a9",
+        "category": "Bangladeshi cricketer",
+        "position": "Bowler",
+        "name": "Mashrafe Bin Mortaza",
+        "price": 1400,
+        "ratings": 4.7,
+        "img": "https://media.gettyimages.com/id/1151616027/photo/mashrafe-mortaza-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019.jpg?s=612x612&w=gi&k=20&c=AxFUoVBHtqaoP2S2XTnm1MGIiof8J-vRiiJGp2a8HJQ="
+    },
+    {
+        "id": "124e13a10",
+        "category": "Bangladeshi cricketer",
+        "position": "Bowling Allrounder",
+        "name": "Mohammad Saifuddin",
+        "price": 1150,
+        "ratings": 4.3,
+        "img": "https://media.gettyimages.com/id/1151589638/photo/mohammad-saifuddin-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019.jpg?s=612x612&w=gi&k=20&c=hrbyFpn5DkMMAHOLvXm7LJQAedtJZOKVQlVbby3sLDc="
+    },
+    {
+        "id": "124e13a11",
+        "category": "Bangladeshi cricketer",
+        "position": "Bowler",
+        "name": "Mustafizur Rahman",
+        "price": 1290,
+        "ratings": 4.4,
+        "img": "https://media.gettyimages.com/id/1151592221/photo/mustafizur-rahman-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019.jpg?s=612x612&w=gi&k=20&c=X0zK1S4kw0XyG57InHl4zGfyKzqWvY3WrFsmvmF9Bpw="
+    },
+
+    {
+        "id": "124e13a12",
+        "category": "Bangladeshi cricketer",
+        "position": "Bowler",
+        "name": "Rubel Hossain",
+        "price": 1120,
+        "ratings": 4.1,
+        "img": "https://media.gettyimages.com/id/1151615399/photo/rubel-hossain-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-world-cup-2019-at.jpg?s=612x612&w=gi&k=20&c=Sd2FjMWNkOcYh4LAkjbrLo87umnUyfpYISDD1Q2u9XE="
+    }
+]

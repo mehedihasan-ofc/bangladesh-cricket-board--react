@@ -1,0 +1,38 @@
+.player-card {
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+}
+
+.player-card img {
+    width: 100%;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.player-info {
+    margin-left: 10px;
+}
+
+.player-info h3 {
+    font-size: 20px;
+}
+
+.player-info p {
+    margin: 7px 0;
+    font-size: 14px;
+}
+
+.btn-add-player {
+    width: 100%;
+    color: #fff;
+    background: #006A4E;
+    padding: 10px 0;
+    border: 0;
+    border-radius: 0px 0px 8px 8px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn-add-player:hover {
+    background: #00523d;
+}
